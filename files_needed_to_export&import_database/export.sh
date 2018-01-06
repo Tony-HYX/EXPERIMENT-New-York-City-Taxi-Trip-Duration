@@ -1,0 +1,1 @@
+sqlplus -s scott/tiger @export.sql 

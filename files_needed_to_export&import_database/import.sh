@@ -1,0 +1,1 @@
+sqlldr userid='scott/tiger' control=import.ctl log=log.log bad=bad.log
